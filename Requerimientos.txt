@@ -1,0 +1,25 @@
+Colores:
+
+Gris: #989898 / 
+Gris oscuro: #4d4545 / 
+Celeste: #28c5e6
+Anaranjado: 08:19 p.m. 07/09/2015 / 
+Verde: #77d248 / 
+Amarillo: #ffc200
+
+codigo DRY (don´t repeat yourself)
+nombres de las clases o funciones -en el caso de CSS, JavaScript Y jQuery- debe ser semántico y entendible.
+
+-el heder estático puede tener background degradado
+-para hacer los efectos en los botoner no puedes usar solo un texto con a.
+
+-la animación de 360 grados es agresiva
+-el logo más importante debe tener las mejores animaciones
+-el boton no tiene animacion
+-respetar las separaciones entre subtitulos
+-quitar todo lo que no pudimos hacer
+
+para el menu: para hacer que el texto quede en una posicion o caracteristica especial: active
+
+para el degradado del header: de top a bottom con bga por ejemplo de negro a transparente
+
